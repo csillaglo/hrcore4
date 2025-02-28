@@ -1,0 +1,45 @@
+{
+  "common": {
+    "welcome": "Üdvözöljük",
+    "login": "Bejelentkezés",
+    "logout": "Kijelentkezés",
+    "email": "Email",
+    "password": "Jelszó",
+    "submit": "Küldés",
+    "cancel": "Mégse",
+    "save": "Mentés",
+    "delete": "Törlés",
+    "create": "Létrehozás",
+    "edit": "Szerkesztés",
+    "loading": "Betöltés...",
+    "name": "Név",
+    "website": "Weboldal",
+    "address": "Cím",
+    "active": "Aktív",
+    "inactive": "Inaktív",
+    "description": "Leírás",
+    "confirmDelete": "Biztosan törölni szeretné ezt az elemet?",
+    "lightMode": "Váltás világos módra",
+    "confirmDelete": "Biztosan törölni szeretné ezt az elemet?",
+    "lightMode": "Váltás világos módra",
+    "darkMode": "Váltás sötét módra"
+  },
+  "nav": {
+    "dashboard": "Vezérlőpult",
+    "employees": "Alkalmazottak",
+    "organizations": "Szervezetek",
+    "departments": "Részlegek",
+    "settings": "Beállítások"
+  },
+  "auth": {
+    "signIn": "Bejelentkezés",
+    "signOut": "Kijelentkezés",
+    "createAccount": "Fiók létrehozása",
+    "forgotPassword": "Elfelejtett jelszó?",
+    "resetPassword": "Jelszó visszaállítása",
+    "enterCredentials": "Adja meg bejelentkezési adatait",
+    "enterDetails": "Adja meg adatait a fiók létrehozásához",
+    "signUpSuccess": "Sikeres regisztráció",
+    "checkEmail": "Kérjük, ellenőrizze e-mailjeit a fiók megerősítéséhez"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "create": "Create",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "name": "Name",
+    "website": "Website",
+    "address": "Address",
+    "active": "Active",
+    "inactive": "Inactive",
+    "description": "Description",
+    "confirmDelete": "Are you sure you want to delete this item?",
+    "lightMode": "Switch to light mode",
+    "confirmDelete": "Are you sure you want to delete this item?",
+    "lightMode": "Switch to light mode",
+    "darkMode": "Switch to dark mode"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "employees": "Employees",
+    "organizations": "Organizations",
+    "departments": "Departments",
+    "settings": "Settings"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "createAccount": "Create Account",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "enterCredentials": "Enter your credentials to sign in",
+    "enterDetails": "Enter your details to create an account",
+    "signUpSuccess": "Registration Successful",
+    "checkEmail": "Please check your email to verify your account"
+  }
+}
